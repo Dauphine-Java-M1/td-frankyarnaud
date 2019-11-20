@@ -1,0 +1,17 @@
+KAMGAING FRANKY ARNAUD
+EXERCICE 1 
+1 ok 
+2 ok 
+3 ok 
+4 ok 
+5 ok 
+6  le target contient la version de maven et les differentes proprietes du projet
+8  le path class sert a determiner le chemin de la class c'est a dire ou se trouve les principales classes
+13 target sont des fichier generes pour des test. on attribut egalement la valeur 1.7 au target  pour avoir la meme version
+
+   exercices 2
+1 ok 
+je n'ai pas acces
+2ok
+3 ok
+4 ok
